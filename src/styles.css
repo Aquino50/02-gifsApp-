@@ -1,0 +1,23 @@
+html,body {
+    height: 100%;
+}
+
+
+#sidebar {
+    height: 100%;
+    min-height: 100vh;
+    max-height:300vh;
+    min-width: 230px;
+    text-indent: 40pt;
+}
+
+.img-card{
+    height: 200px;
+    object-fit: cover;
+    border: none !important;
+    border-radius: 20px;
+}
+
+.card {
+    border: none !important;
+}
